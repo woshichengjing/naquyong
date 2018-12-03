@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://naquyong.oss-cn-hangzhou.aliyuncs.com/naquyong.ipa?Expires=1543821045&OSSAccessKeyId=TMP.AQE9_o07dYcBtSOM5rOvYSW6keDMYWNzmmhXDcdjULnLW0B5Mw6EcZrLEVm6ADAtAhRza8-Blrk3k9JN72OtMP6jIKF6egIVAI__JXhR7omg9NXxPoLKyhF7mm0C&Signature=QpNxp6%2FKZOAsSWGwDDf%2Ba73ltEo%3D</string>
+					<string>http://naquyong.oss-cn-hangzhou.aliyuncs.com/naquyong.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://naquyong.oss-cn-hangzhou.aliyuncs.com/512.png?Expires=1543821073&OSSAccessKeyId=TMP.AQE9_o07dYcBtSOM5rOvYSW6keDMYWNzmmhXDcdjULnLW0B5Mw6EcZrLEVm6ADAtAhRza8-Blrk3k9JN72OtMP6jIKF6egIVAI__JXhR7omg9NXxPoLKyhF7mm0C&Signature=WzqzyRcUnROoQ01XXrhbu0ud32E%3D</string>
+					<string>http://naquyong.oss-cn-hangzhou.aliyuncs.com/512.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://naquyong.oss-cn-hangzhou.aliyuncs.com/57.png?Expires=1543821089&OSSAccessKeyId=TMP.AQE9_o07dYcBtSOM5rOvYSW6keDMYWNzmmhXDcdjULnLW0B5Mw6EcZrLEVm6ADAtAhRza8-Blrk3k9JN72OtMP6jIKF6egIVAI__JXhR7omg9NXxPoLKyhF7mm0C&Signature=rOcxB%2F66t7FVtgbFqEhFXKYmIZg%3D</string>
+					<string>http://naquyong.oss-cn-hangzhou.aliyuncs.com/57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
